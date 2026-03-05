@@ -86,7 +86,7 @@ git clone https://github.com/Varshabachu050/MoodCompanion.git
 ### 2️⃣ Navigate to the project folder
 
 ```bash
-cd mood-health-app
+cd MoodCompanion
 ```
 
 ### 3️⃣ Install Flask
